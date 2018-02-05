@@ -9,7 +9,7 @@
 #### Diseño Base
 ![Diseño Básico](/assets/img/diseñomuybase.png)
 
-# La estructura sería:
+##### La estructura sería:
 * About
 	* photo + description
 	* tech skills
