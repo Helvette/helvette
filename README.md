@@ -11,17 +11,17 @@
 
 # La estructura sería:
 * About
- * photo + description
- * tech skills
- * life skills
+	* photo + description
+	* tech skills
+	* life skills
 * Proyects
- * code
- * art (photography + ilustration)
+	* code
+	* art (photography + ilustration)
 * Contact Me
- * mail/ get in touch
- * linkedin
- * github
+	* mail/ get in touch
+	* linkedin
+	* github
 * Footer
- * copyright
- * made by + year
- * download CV
+	* copyright
+	* made by + year
+	* download CV
