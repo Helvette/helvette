@@ -39,7 +39,7 @@
 	</br>
 	<img src="https://i.postimg.cc/3wrtPV5Y/bigbadgetrans.png" alt="Invisible" />
 	</p></td>
-	<td style=""><img src="https://i.postimg.cc/cJzSvsTD/bordertrans.png" alt="Invisible" /></td> 
+	<td style=""><img src="https://i.postimg.cc/cHR6w9Ct/bordedashed.png" alt="Borde Dashed" /></td> 
 	<td style="border:0"><p align="left" style="padding-right:45px; font-size: 16px;">
 	<strong>📍 Where to find me</strong><img align="right" src="https://im.ezgif.com/tmp/ezgif-1-cff1f5c124.gif" style="float:right" width="150px">
 	</br>
