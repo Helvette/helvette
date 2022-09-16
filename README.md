@@ -1,4 +1,3 @@
-<img align="right" src="https://static.wikia.nocookie.net/tibia/images/0/09/Bat.gif/revision/latest/top-crop/width/360/height/360?cb=20150421143833&path-prefix=en" style="position:absolute; top:-32px; right:0" width="auto">
 
 <h1 align="center"><strong> Hi there! I'm <a href="https://helvette.github.io/">Leticia [ @Wyvrn ]</a> 🐲</strong>
 </h1>
