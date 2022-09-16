@@ -10,7 +10,7 @@
 <table style="width:100%;">
 	<tr>
 	<td style="border:0"><p align="right" style="padding-right:20px; font-size: 16px;">
-	<h3>Languages and tools 👨‍💻</h3>
+	<strong>Languages and tools 👨‍💻</strong>
 	</br>
 	</br>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5" />
@@ -41,7 +41,7 @@
 	</p></td>
 	<td style=""><img src="https://i.postimg.cc/cJzSvsTD/bordertrans.png" alt="Invisible" /></td> 
 	<td style="border:0"><p align="left" style="padding-right:45px; font-size: 16px;">
-	<h3>📍 Where to find me</h3>
+	<strong>📍 Where to find me</strong>
 	</br>
 	</br>
 	<a href="mailto:let.roferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" target="blank" /></a>
