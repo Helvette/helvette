@@ -1,16 +1,16 @@
 
-<h1 align="center"><strong> Hi there! I'm <a href="https://helvette.github.io/">Leticia [ @Wyvrn ]</a> 🐲</strong>
+<h1 align="center"><strong> Hi there! I'm <a href="https://helvette.github.io/" target="blank">Leticia [ @Wyvrn ]</a> 🐲</strong>
 </h1>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=your-github-helvette&style=flat-square&color=lightgrey&label=you%20are%20the%20stalker%20number" alt="helvette trophies" /></p>
 
-<h3 align="center" style="padding:10px 20px 20px 20px">Professional nap taker, passionate about dragons, manga, games, art and technology. I'm from Santiago, Chile, currently working as a freelancer web developer and sometimes as an amateur illustrator. I'm always trying to learn something new!</h3>
+<h4 align="center" style="padding:10px 20px 20px 20px">Professional nap taker, passionate about dragons, manga, games, art and technology. I'm from Santiago, Chile, currently working as a freelancer web developer and sometimes as an amateur illustrator. I'm always trying to learn something new!</h4>
 
 <hr></hr>
 <table style="width:100%;">
 	<tr>
 	<td style="border:0"><p align="right" style="padding-right:20px; font-size: 16px;">
-	<strong>Languages and tools 👨‍💻</strong>
+	<h3>Languages and tools 👨‍💻</h3>
 	</br>
 	</br>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5" />
@@ -41,20 +41,20 @@
 	</p></td>
 	<td style=""><img src="https://i.postimg.cc/cJzSvsTD/bordertrans.png" alt="Invisible" /></td> 
 	<td style="border:0"><p align="left" style="padding-right:45px; font-size: 16px;">
-	<strong>📍 Where to find me</strong>
+	<h3>📍 Where to find me</h3>
 	</br>
 	</br>
-	<a href="mailto:let.roferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+	<a href="mailto:let.roferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" target="blank" /></a>
 	</br>
-	<a href="https://www.linkedin.com/in/letferreira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
+	<a href="https://www.linkedin.com/in/letferreira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" target="blank" /></a>
 	</br>
-	<a href="https://helvette.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+	<a href="https://helvette.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" target="blank" /></a>
 	</br>
-	<a href="https://myanimelist.net/profile/Hibrida"><img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" alt="MAL" /></a>
+	<a href="https://myanimelist.net/profile/Hibrida"><img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" alt="MAL" target="blank" /></a>
 	</br>
-	<a href="https://steamcommunity.com/id/ihaveahybridheart/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
+	<a href="https://steamcommunity.com/id/ihaveahybridheart/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" target="blank" /></a>
 	</br>
-	<a href="https://www.instagram.com/ihaveahybridheart/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+	<a href="https://www.instagram.com/ihaveahybridheart/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="blank" /></a>
 	</br>
 	<img src="https://i.postimg.cc/wjWRMmND/falsebadge.png" alt="Invisible" />
 	</br>
