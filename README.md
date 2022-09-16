@@ -36,6 +36,8 @@
 	<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
 	</br>
 	<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
+	</br>
+	‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
 	</p></td>
 	<td style="border-left:2px dashed lightgrey; width:1px;"></td> 
 	<td><p align="left" style="padding-right:45px; font-size: 16px;">
@@ -65,6 +67,8 @@
 	<img src="https://i.postimg.cc/wjWRMmND/falsebadge.png" alt="Invisible" />
 	</br>
 	<img src="https://i.postimg.cc/wjWRMmND/falsebadge.png" alt="Invisible" />
+	</br>
+	‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
 	</p></td> 
 	</tr>
 </table>
