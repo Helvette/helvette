@@ -5,6 +5,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=your-github-helvette&style=flat-square&color=lightgrey&label=you%20are%20the%20stalker%20number" alt="helvette trophies" /></p>
 
 <h4 align="center" style="padding:10px 20px 20px 20px">Professional nap taker, passionate about dragons, manga, games, art and technology. I'm from Santiago, Chile, currently working as a freelancer web developer and sometimes as an amateur illustrator. I'm always trying to learn something new!</h4>
+<img align="right" src="https://static.wikia.nocookie.net/tibia/images/0/09/Bat.gif/revision/latest/top-crop/width/360/height/360?cb=20150421143833&path-prefix=en" style="position:absolute; top:-32px; right:0" width="auto">
 
 <hr></hr>
 <table style="width:100%;">
