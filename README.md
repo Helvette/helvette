@@ -37,7 +37,7 @@
 	</br>
 	<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
 	</br>
-	<a style="color:transparent">Languages and tools 👨‍💻</a>
+	<img src="https://i.postimg.cc/wjWRMmND/falsebadge.png" alt="Invisible" /><img src="https://i.postimg.cc/wjWRMmND/falsebadge.png" alt="Invisible" /><img src="https://i.postimg.cc/wjWRMmND/falsebadge.png" alt="Invisible" /><img src="https://i.postimg.cc/wjWRMmND/falsebadge.png" alt="Invisible" />
 	</p></td>
 	<td style="border-left:2px dashed lightgrey; width:1px;"></td> 
 	<td style="border:0"><p align="left" style="padding-right:45px; font-size: 16px;">
@@ -68,7 +68,7 @@
 	</br>
 	<img src="https://i.postimg.cc/wjWRMmND/falsebadge.png" alt="Invisible" />
 	</br>
-	<a style="color:transparent">Languages and tools 👨‍💻</a>
+	<img src="https://i.postimg.cc/wjWRMmND/falsebadge.png" alt="Invisible" /><img src="https://i.postimg.cc/wjWRMmND/falsebadge.png" alt="Invisible" /><img src="https://i.postimg.cc/wjWRMmND/falsebadge.png" alt="Invisible" /><img src="https://i.postimg.cc/wjWRMmND/falsebadge.png" alt="Invisible" />
 	</p></td>
 	</tr>
 </table>
