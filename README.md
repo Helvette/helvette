@@ -45,7 +45,7 @@
 	</br>
 	</br>
 	<a href="mailto:let.roferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" target="blank" /></a>
-		<img align="right" src="https://static.wikia.nocookie.net/tibia/images/0/09/Bat.gif/revision/latest/top-crop/width/360/height/360?cb=20150421143833&path-prefix=en" style="float:right" width="100px">
+		<img align="right" src="https://im.ezgif.com/tmp/ezgif-1-cff1f5c124.gif" style="float:right" width="150px">
 	</br>
 	<a href="https://www.linkedin.com/in/letferreira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" target="blank" /></a>
 	</br>
