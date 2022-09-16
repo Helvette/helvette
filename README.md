@@ -36,6 +36,8 @@
 	<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
 	</br>
 	<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
+	</br>
+	<a style="color:transparent">Languages and tools 👨‍💻</a>
 	</p></td>
 	<td style="border-left:2px dashed lightgrey; width:1px;"></td> 
 	<td style="border:0"><p align="left" style="padding-right:45px; font-size: 16px;">
@@ -65,10 +67,14 @@
 	<img src="https://i.postimg.cc/wjWRMmND/falsebadge.png" alt="Invisible" />
 	</br>
 	<img src="https://i.postimg.cc/wjWRMmND/falsebadge.png" alt="Invisible" />
-	</p></td> 
+	</br>
+	<a style="color:transparent">Languages and tools 👨‍💻</a>
+	</p></td>
 	</tr>
 </table>
 <hr></hr>
+
+</table>
 
 <p align="center" style="padding-top:20px"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=helvette&show_icons=true&locale=en&layout=compact&theme=dark" alt="helvette languages" /></p>
 
