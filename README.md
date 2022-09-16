@@ -39,7 +39,7 @@
 	</br>
 	<img src="https://i.postimg.cc/wjWRMmND/falsebadge.png" alt="Invisible" /><img src="https://i.postimg.cc/wjWRMmND/falsebadge.png" alt="Invisible" /><img src="https://i.postimg.cc/wjWRMmND/falsebadge.png" alt="Invisible" /><img src="https://i.postimg.cc/wjWRMmND/falsebadge.png" alt="Invisible" />
 	</p></td>
-	<td style=""><img src="https://i.postimg.cc/bJLwVXRk/bordertrans.png" alt="Invisible" /></td> 
+	<td style=""><img src="https://i.postimg.cc/cJzSvsTD/bordertrans.png" alt="Invisible" /></td> 
 	<td style="border:0"><p align="left" style="padding-right:45px; font-size: 16px;">
 	<strong>📍 Where to find me</strong>
 	</br>
