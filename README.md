@@ -7,7 +7,7 @@
 <h3 align="center" style="padding:10px 20px 20px 20px">Professional nap taker, passionate about dragons, manga, games, art and technology. I'm from Santiago, Chile, currently working as a freelancer web developer and sometimes as an amateur illustrator. I'm always trying to learn something new!</h3>
 
 <hr></hr>
-<table style="width:100%; border:0">
+<table style="width:100%;">
 	<tr>
 	<td><p align="right" style="padding-right:20px; font-size: 16px;">
 	<strong>Languages and tools 👨‍💻</strong>
@@ -53,6 +53,18 @@
 	<a href="https://steamcommunity.com/id/ihaveahybridheart/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
 	</br>
 	<a href="https://www.instagram.com/ihaveahybridheart/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+	</br>
+	<img src="https://ibb.co/whLfnLG" alt="Steam" />
+	</br>
+	<img src="https://ibb.co/whLfnLG" alt="Steam" />
+	</br>
+	<img src="https://ibb.co/whLfnLG" alt="Steam" />
+	</br>
+	<img src="https://ibb.co/whLfnLG" alt="Steam" />
+	</br>
+	<img src="https://ibb.co/whLfnLG" alt="Steam" />
+	</br>
+	<img src="https://ibb.co/whLfnLG" alt="Steam" />
 	</p></td> 
 	</tr>
 </table>
