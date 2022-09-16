@@ -42,10 +42,10 @@
 	<td style=""><img src="https://i.postimg.cc/cJzSvsTD/bordertrans.png" alt="Invisible" /></td> 
 	<td style="border:0"><p align="left" style="padding-right:45px; font-size: 16px;">
 	<strong>📍 Where to find me</strong>
-	<img align="right" src="https://static.wikia.nocookie.net/tibia/images/0/09/Bat.gif/revision/latest/top-crop/width/360/height/360?cb=20150421143833&path-prefix=en" style="float:right" width="auto">
 	</br>
 	</br>
 	<a href="mailto:let.roferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" target="blank" /></a>
+		<img align="right" src="https://static.wikia.nocookie.net/tibia/images/0/09/Bat.gif/revision/latest/top-crop/width/360/height/360?cb=20150421143833&path-prefix=en" style="float:right" width="100px">
 	</br>
 	<a href="https://www.linkedin.com/in/letferreira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" target="blank" /></a>
 	</br>
