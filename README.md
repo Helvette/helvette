@@ -4,12 +4,12 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=your-github-helvette&style=flat-square&color=lightgrey&label=you%20are%20the%20stalker%20number" alt="helvette trophies" /></p>
 
-<h4 align="center" style="padding:10px 20px 20px 20px">Professional nap taker, passionate about dragons, manga, games, art and technology. I'm from Santiago, Chile, currently working as a freelancer web developer and sometimes as an amateur illustrator. I'm always trying to learn something new!</h4>
+<h4 align="center">Professional nap taker, passionate about dragons, manga, games, art and technology. I'm from Santiago, Chile, currently working as a freelancer web developer and sometimes as an amateur illustrator. I'm always trying to learn something new!</h4>
 
 <hr></hr>
 <table style="width:100%;">
 	<tr>
-	<td style="border:0"><p align="right" style="padding-right:20px; font-size: 16px;">
+	<td><p align="right">
 	<strong>Languages and tools 👨‍💻</strong>
 	</br>
 	</br>
@@ -40,7 +40,7 @@
 	<img src="https://i.postimg.cc/3wrtPV5Y/bigbadgetrans.png" alt="Invisible" />
 	</p></td>
 	<td style=""><img src="https://i.postimg.cc/cHR6w9Ct/bordedashed.png" alt="Borde Dashed" /></td> 
-	<td style="border:0"><p align="left" style="padding-right:45px; font-size: 16px;">
+	<td><p align="left">
 	<strong>📍 Where to find me</strong><img align="right" src="https://im.ezgif.com/tmp/ezgif-1-cff1f5c124.gif" style="float:right" width="150px">
 	</br>
 	</br>
@@ -76,6 +76,6 @@
 
 </table>
 
-<p align="center" style="padding-top:20px"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=helvette&show_icons=true&locale=en&layout=compact&theme=dark" alt="helvette languages" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=helvette&show_icons=true&locale=en&layout=compact&theme=dark" alt="helvette languages" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=helvette&theme=onestar&margin-w=15&margin-h=15&column=4&rank=SSS,SS,S,AAA,AA,A,B" alt="helvette trophies" /></a> </p>
