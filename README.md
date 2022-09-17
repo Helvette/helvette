@@ -41,7 +41,7 @@
 	</p></td>
 	<td style=""><img src="https://i.postimg.cc/cHR6w9Ct/bordedashed.png" alt="Borde Dashed" /></td> 
 	<td><p align="left">
-	<strong>📍 Where to find me</strong><img align="right" src="https://im.ezgif.com/tmp/ezgif-1-cff1f5c124.gif" style="float:right" width="150px">
+	<strong>📍 Where to find me</strong><img align="right" src="assets\img\batsie.gif" style="float:right" width="150px">
 	</br>
 	</br>
 	<a href="mailto:let.roferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" target="blank" /></a>
